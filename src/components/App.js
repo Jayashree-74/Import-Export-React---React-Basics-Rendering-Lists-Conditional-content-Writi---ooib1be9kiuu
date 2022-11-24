@@ -11,8 +11,7 @@ const App = () => {
       <Heading />
       <SubHeading />
       <InputQuery />
-      < SubmitButton
-/>
+      < SubmitButton />
     </div>
   )
 }
